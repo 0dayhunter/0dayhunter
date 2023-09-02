@@ -4,3 +4,4 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 ## ⚡ Fun fact:
 Learn by doing is an easy way to learn something
 
+Sponsor: https://github.com/sponsors/0dayhunter
