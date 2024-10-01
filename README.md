@@ -55,13 +55,12 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 </a>
 </p><br>
 
-### ⚙️ &nbsp; Hacktoberfest PR Badges :
+### ⚙️ &nbsp; Hacktoberfest PR Badges
 
 ---
 
 <p align="center">
+    [![An image of @0dayhunter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0dayhunter)](https://holopin.io/@0dayhunter)
+</p>
 
-[![An image of @0dayhunter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0dayhunter)](https://holopin.io/@0dayhunter)
-
-</p><br>
 
