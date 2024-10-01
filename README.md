@@ -59,6 +59,6 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 
 ---
 
-[![An image of @0dayhunter's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@0dayhunter#badges)](https://holopin.io/@0dayhunter)
+[![An image of @0dayhunter's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/hacktoberfest2024/userbadge/cm1q9zbhj15910cl4t0ykyxce)](https://holopin.io/@0dayhunter)
 
 
