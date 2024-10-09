@@ -72,27 +72,3 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 </p><br>
 
 
-### ⚙️ &nbsp;GitHub Analytics :
-
----
-
-<p align="center">
-  <a href="https://github.com/0dayhunter">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0dayhunter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0dayhunter&layout=compact&langs_count=8&theme=algolia"/>
-</a>
- 
-  <a href="https://github.com/0dayhunter">
-   <img  height="125em" src="http://github-readme-streak-stats.herokuapp.com/?user=0dayhunter&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ItsCodewithDEv&count_private=true&theme=algolia&v=2" alt="Devesh's wakatime stats">
-</a>
-</p><br>
-
-### ⚙️ &nbsp; Hacktoberfest PR Badges
-
----
-
-[![An image of @0dayhunter's Holopin badges](https://holopin.me/0dayhunter)](https://holopin.io/@0dayhunter)
-
-
-
