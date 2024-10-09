@@ -34,7 +34,7 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 
 <div align="center"> 
   
-<h2> 0dayhunter Contributions </h2>
+<h2> 0dayhunter's Contributions </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>  
 
