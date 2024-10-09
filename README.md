@@ -5,6 +5,12 @@
 </div>  
 -->
 
+## Hey there 👋,
+I love to learn about building and finding security flaws in Web and Mobile Applications.Cloud Infra is also a great area where I'm currently understanding how things work and how security issues can arise if not handled proprely.I also do bug bounties sometimes which helps to test real world systems and applications on how they are designed & built and produce serious impactful issues. I have been also doing CTF's with my team. SecureCrew
+
+## Sponsor: https://github.com/sponsors/0dayhunter
+
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/0dayhunter/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -32,12 +38,9 @@
 
 <br/><br/>
 
-## Hey there 👋,
-I love to learn about building and finding security flaws in Web and Mobile Applications.Cloud Infra is also a great area where I'm currently understanding how things work and how security issues can arise if not handled proprely.I also do bug bounties sometimes which helps to test real world systems and applications on how they are designed & built and produce serious impactful issues. I have been also doing CTF's with my team. SecureCrew
-
-## Sponsor: https://github.com/sponsors/0dayhunter
 
 
+<!--
 ### ⚙️ &nbsp; Tech Stack :
 
 ---
@@ -71,5 +74,3 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-FFAC45?style=for-the-badge&logo=openai&logoColor=white" />
 </p><br>
-
-
